@@ -1,0 +1,17 @@
+{
+  "appId": "ewr.ewtrwgtdf546.ccv",
+  "appName": "werwer",
+  "webDir": "dist",
+  "server": {
+    "url": "https://echotrailapp.com",
+    "cleartext": true
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "release.keystore",
+      "keystorePassword": "android",
+      "keystoreAlias": "release",
+      "keystoreAliasPassword": "android"
+    }
+  }
+}
